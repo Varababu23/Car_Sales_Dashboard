@@ -1,10 +1,14 @@
 Car Sales Analysis Dashboard – Insights from CarDekho Data
+
+
 This Power BI dashboard offers an interactive exploration of car sales data sourced from CarDekho’s Kaggle dataset, illuminating key pricing trends, vehicle types, and buying preferences within India’s automotive market.
 
 Source
+
 Kaggle Dataset: “Vehicle Dataset from CarDekho” (https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
 Data Columns Brief Description
+
 Car_Name: Name/model of the car (e.g., Maruti Swift)
 
 Year: Year of car registration or manufacture
@@ -36,6 +40,8 @@ Color: Color of the vehicle (if included in your version)
 (You may tailor the column list to match your data extract.)
 
 Tools & Technologies
+
+
 Power BI (dashboarding, data modeling)
 
 DAX (custom metrics, calculations)
@@ -45,6 +51,8 @@ SQL/Excel (data preparation)
 CarDekho Kaggle Dataset
 
 Key Features & Visualizations
+
+
 1. Brand Filters
 What it does:
 Allows users to focus their analysis on selected car manufacturers, making comparative evaluation of trends (e.g., Maruti vs. Hyundai) easy and interactive.
@@ -81,6 +89,9 @@ Insights:
 Reveals brand-wise reliability perceptions, how used vs. new mileage varies, and whether certain brands retain value and low mileage better than others.
 
 6. Count of Model by Color
+
+
+
 What it does:
 Visualizes the popularity of different car colors among models sold.
 
@@ -88,6 +99,8 @@ Insights:
 Identifies color trends by model—helpful for dealerships, marketing teams, or manufacturers to optimize offerings and promotions.
 
 How to View & Use
+
+
 Download the .pbix file from this repository.
 
 Open with Power BI Desktop (version 2.104.xxx or later recommended).
@@ -95,6 +108,9 @@ Open with Power BI Desktop (version 2.104.xxx or later recommended).
 Use interactive slicers and filters to explore the data by brand, year, vehicle condition, and more.
 
 Business Value
+
+
+
 This dashboard empowers automotive businesses, dealers, and analysts to:
 
 Uncover brand-specific and market-wide sales/value trends
