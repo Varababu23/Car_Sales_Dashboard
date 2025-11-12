@@ -3,6 +3,11 @@ Car Sales Analysis Dashboard – Insights from CarDekho Data
 
 This Power BI dashboard offers an interactive exploration of car sales data sourced from CarDekho’s Kaggle dataset, illuminating key pricing trends, vehicle types, and buying preferences within India’s automotive market.
 
+
+<img width="1329" height="753" alt="image" src="https://github.com/user-attachments/assets/8c1e00a1-2fac-4a49-917b-ccf4740faa8c" />
+
+
+
 Source
 
 Kaggle Dataset: “Vehicle Dataset from CarDekho” (https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
