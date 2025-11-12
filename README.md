@@ -8,6 +8,10 @@ This Power BI dashboard offers an interactive exploration of car sales data sour
 
 
 
+<img width="1323" height="745" alt="image" src="https://github.com/user-attachments/assets/7e5840ab-e492-4521-bf36-faa479eae129" />
+
+
+
 Source
 
 Kaggle Dataset: “Vehicle Dataset from CarDekho” (https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
